@@ -4,11 +4,11 @@ This repo is to highlight an example of some of the Deep Learning projects takin
 
 ### Requirements  
   
-TensorFlow
-Pandas
-SciPy
-Scikit-learn
-Keras
-tqdm
-h5py
-Pillow
+TensorFlow  
+Pandas  
+SciPy  
+Scikit-learn  
+Keras  
+tqdm  
+h5py  
+Pillow  
